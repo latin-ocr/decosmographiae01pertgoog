@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decosmographiae01pertgoog_0006.png"; bbox 0 0 2784 5106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 379 1207 836 1301">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 379 1207 836 1301">
+     <span class='ocr_line' id='line_1_1' title="bbox 379 1207 836 1301; baseline 0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 379 1207 534 1300; x_wconf 79' lang='lat' dir='ltr'>PATRI</span> <span class='ocrx_word' id='word_1_2' title='bbox 561 1209 836 1301; x_wconf 80' lang='lat' dir='ltr'><strong>CARISSIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 53 1617 1156 1838">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 53 1617 1156 1838">
+     <span class='ocr_line' id='line_1_2' title="bbox 53 1617 1156 1838; baseline -0.001 -82"><span class='ocrx_word' id='word_1_3' title='bbox 53 1617 418 1759; x_wconf 80' lang='lat' dir='ltr'>GEORGIO</span> <span class='ocrx_word' id='word_1_4' title='bbox 448 1617 849 1760; x_wconf 74' lang='lat' dir='ltr'><strong>HElNfflco</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 877 1618 1156 1838; x_wconf 73' lang='lat' dir='ltr'><strong>¹PERTZ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 330 2211 874 2298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 330 2211 874 2298">
+     <span class='ocr_line' id='line_1_3' title="bbox 330 2211 874 2298; baseline 0.004 -20"><span class='ocrx_word' id='word_1_6' title='bbox 330 2213 408 2282; x_wconf 92' lang='lat' dir='ltr'><strong>PIO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 432 2211 692 2298; x_wconf 77' lang='lat' dir='ltr'><strong>GRATOQVE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 716 2211 874 2282; x_wconf 89' lang='lat' dir='ltr'><strong>ANIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1396 5106">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1396 5106">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1396 5106; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1396 5106; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
